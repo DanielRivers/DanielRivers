@@ -4,8 +4,6 @@
 - 👯 I’m looking to collaborate on bringing the donation platform I have written to a wider audiance and more charities
 - 📫 How to reach me: me@danielrivers.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danielrivers&theme=vue)](https://git.io/streak-stats)
-
 <!--
 **DanielRivers/DanielRivers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
