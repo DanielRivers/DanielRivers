@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a great suite of products with @lavanda-uk and volunteering for @restlessbeings writing a donation platform and all things tech.
+- 🔭 I’m currently helping create a world with more founders with the incredible team at Kinde
+- 💚 volunteering for @restlessbeings writing a donation platform and all things tech.
 - 👯 I’m looking to collaborate on bringing the donation platform I have written to a wider audiance and more charities
 - 📫 How to reach me: me@danielrivers.com
 
